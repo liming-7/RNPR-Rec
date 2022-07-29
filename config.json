@@ -1,0 +1,16 @@
+{
+    "dataset": "dunnhumby",
+    "augmentation": 1,
+    "emb_max_len": 30,
+    "freq_max_len": 30,
+    "min_len": 10,
+    "max_cat": 10,
+    "embed_dim": 100,
+    "dropout_rate": 0.1,
+    "cuda": 0,
+    "epochs": 100,
+    "batch_size": 256,
+    "learning_rate": 0.001,
+    "optim": "Adam",
+    "weight_decay": 0
+}
